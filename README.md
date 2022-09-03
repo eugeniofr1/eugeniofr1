@@ -1,6 +1,6 @@
 ###   Olá, eu sou Eugênio Francisco 👋
 
-- 🌱 Estudando HTML, CSS e JavaScritp
+- 🌱 Estudando HTML, CSS e JavaScript
 
 <div align="center" display="inline-blocks">
   <a href="https://github.com/eugeniofr1">
