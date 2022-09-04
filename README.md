@@ -9,3 +9,7 @@
   <img align="left" height="180em" width="405em" src="https://github-readme-stats.vercel.app/api?username=eugeniofr1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img align= "right" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniofr1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+<div>
+![Snake animation](https://github.com/eugeniofr1/eugeniofr1/blob/output/github-contribution-grid-snake.svg)  
+</div>
