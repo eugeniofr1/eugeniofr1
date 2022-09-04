@@ -11,3 +11,5 @@
 </div>
 
 
+![Snake animation](https://github.com/eugeniofr1/eugeniofr1/blob/output/github-contribution-grid-snake.svg)
+
