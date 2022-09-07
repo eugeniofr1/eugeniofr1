@@ -22,11 +22,6 @@
 ![Snake animation](https://github.com/eugeniofr1/eugeniofr1/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-
-22
   <a href="https://instagram.com/eugenio_fr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-25
   <a href = "mailto:eugeniofr17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-26
   <a href="https://www.linkedin.com/in/eugenio-francisco-silva-b842b5181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
