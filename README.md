@@ -1,7 +1,6 @@
 ###   Olá, eu sou Eugênio Francisco 👋
 
 🌱 Estudando HTML, CSS e JavaScript </br>
-📫 Como entrar em contato comigo: eugeniofr17@gmail.com </br>
 🔭 Atualmente cursando 4º período de ADS
 
 <div align="center" display="inline-blocks">
