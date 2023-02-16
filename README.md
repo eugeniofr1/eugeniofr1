@@ -1,7 +1,7 @@
 ###   Olá, eu sou Eugênio Francisco 👋
 
 🌱 Estudando HTML, CSS, JavaScript e ReactJs </br>
-🔭 Atualmente cursando 4º período de ADS
+🔭 Atualmente cursando 5º período de ADS
 
 <div align="center" display="inline-blocks">
   <a href="https://github.com/eugeniofr1">
