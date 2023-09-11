@@ -1,7 +1,7 @@
 ###   Olá, eu sou Eugênio Francisco 👋
 
-🌱 Estudando HTML, CSS, JavaScript e ReactJs </br>
-🔭 Atualmente cursando 5º período de ADS
+🌱 Estudando HTML, CSS, JavaScript e Angular </br>
+🔭Graduado em Análise e Desenvolvimento de Sistemas
 
 <div align="center" display="inline-blocks">
   <a href="https://github.com/eugeniofr1">
@@ -18,7 +18,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-![Snake animation](https://github.com/eugeniofr1/eugeniofr1/blob/output/github-contribution-grid-snake.svg)
+
 
 <div> 
   <a href="https://instagram.com/eugenio_fr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
