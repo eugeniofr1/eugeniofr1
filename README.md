@@ -1,6 +1,6 @@
 ###   Olá, eu sou Eugênio Francisco 👋
 
-🌱 // Estudando HTML, CSS, JavaScript e Angular </br>
+🌱 </br>
 🔭Graduado em Análise e Desenvolvimento de Sistemas
 
 <div align="center" display="inline-blocks">
